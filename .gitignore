@@ -1,3 +1,9 @@
+**/bin/
+**/obj/
+.vs/
+node_modules/
+package-lock.json
+yarn.lock
 Deepak_Yadav/S5 Dotnetbasics/Dotnetbasics/obj/**
 Deepak_Yadav/S5 Dotnetbasic/Dotnetbasics/bin/**
 Deepak_Yadav/.vs
